@@ -1,0 +1,89 @@
+{
+    "mobiles": [
+        {
+            "id": "1",
+            "name": "HUAWEI P40 Pro",
+            "specifications": [
+                {
+                    "weight": "138",
+                    "camera": "Lorem ipsum dolor sit amet.",
+                    "display": "Sed varius nunc sit amet hendrerit vulputate.",
+                    "battery": "Aliquam volutpat odio vitae ornare tristique."
+                }
+            ],
+            "color": "black",
+            "price": "876",
+            "rating": "4",
+            "image": "https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/plp/phones/new-phones/series-products/p40-silver.png",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+            "id": "2",
+            "name": "HUAWEI P40",
+            "specifications": [
+                {
+                    "weight": "138",
+                    "camera": "Lorem ipsum dolor sit amet.",
+                    "display": "Sed varius nunc sit amet hendrerit vulputate.",
+                    "battery": "Aliquam volutpat odio vitae ornare tristique."
+                }
+            ],
+            "color": "black",
+            "price": "876",
+            "rating": "4",
+            "image": "https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/plp/phones/new-phones/series-products/p40-silver.png",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+            "id": "3",
+            "name": "HUAWEI P30 Pro",
+            "specifications": [
+                {
+                    "weight": "138",
+                    "camera": "Lorem ipsum dolor sit amet.",
+                    "display": "Sed varius nunc sit amet hendrerit vulputate.",
+                    "battery": "Aliquam volutpat odio vitae ornare tristique."
+                }
+            ],
+            "color": "black",
+            "price": "876",
+            "rating": "4",
+            "image": "https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/plp/phones/new-phones/series-products/p30-pro-blue.png",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+            "id": "4",
+            "name": "HUAWEI P30",
+            "specifications": [
+                {
+                    "weight": "138",
+                    "camera": "Lorem ipsum dolor sit amet.",
+                    "display": "Sed varius nunc sit amet hendrerit vulputate.",
+                    "battery": "Aliquam volutpat odio vitae ornare tristique."
+                }
+            ],
+            "color": "black",
+            "price": "876",
+            "rating": "4",
+            "image": "https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/plp/phones/new-phones/series-products/P30_orange.png",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+            "id": "5",
+            "name": "IPHONE 13",
+            "specifications": [
+                {
+                    "weight": "138",
+                    "camera": "Lorem ipsum dolor sit amet.",
+                    "display": "Sed varius nunc sit amet hendrerit vulputate.",
+                    "battery": "Aliquam volutpat odio vitae ornare tristique."
+                }
+            ],
+            "color": "black",
+            "price": "876",
+            "rating": "4",
+            "image": "https://www.apple.com/v/iphone-13/e/images/overview/frontcamera/true_depth_camera__estemy5x6f8m_large.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        }
+    ]
+}
