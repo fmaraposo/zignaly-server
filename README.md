@@ -9,4 +9,5 @@
 2. Run the code with npm start
 
 ## 3. Backend
-1. Run the server with node app.js or in case you have nodemon with nodemon app.js
+1. Install the dependencies with npm install
+2. Run the server with node app.js or in case you have nodemon with nodemon app.js
